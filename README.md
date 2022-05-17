@@ -8,7 +8,7 @@
 - ⚙️ Technologies I work on:
   - FrontEnd: HTML5, CSS3, Javascript.
   - Libraries/Frameworks: ReactJS, SASS, PostCSS, Jquery.
-- 📫 Reach me at:
+- 📫 Find me:
 	- Portfolio - https://dikshitak.com/
 	- Linkedin - https://www.linkedin.com/in/dikshita-kashodriya/
 - ⚡️ Fun fact: I'm a fan of KDrama
