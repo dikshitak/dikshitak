@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**dikshitak/dikshitak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Front-End Developer working in Mumbai, India.
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Media.net**
+- ⚙️ Technologies I work on:
+  - FrontEnd: HTML5, CSS3, Javascript.
+  - Libraries/Frameworks: ReactJS, SASS, PostCSS, Jquery.
+- 📫 Reach me at:
+	- Portfolio - https://dikshitak.com/
+	- Linkedin - https://www.linkedin.com/in/dikshita-kashodriya/
+- ⚡️ Fun fact: I'm a fan of KDrama
