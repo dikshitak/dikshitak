@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-#### I'm a Front-End Developer working in Mumbai, India.
-
 ##### BIO
 
-- 🏢 I'm currently working at **Media.net**
+- 🏢 I'm currently a student pursuing **Masters in Computer Scienc**
+- Previously, I worked with **Media.net** as a **Front End Engineer**
 - ⚙️ Technologies I work on:
   - FrontEnd: HTML5, CSS3, Javascript.
-  - Libraries/Frameworks: ReactJS, SASS, PostCSS, Jquery.
+  - Libraries/Frameworks: ReactJS, SASS, PostCSS, Jquery, Bootstrap, Tailwind, MaterialUI.
 - 📫 Find me:
 	- Portfolio - https://dikshitak.com/
 	- Linkedin - https://www.linkedin.com/in/dikshita-kashodriya/
