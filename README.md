@@ -2,7 +2,7 @@
 
 ##### BIO
 
-- 💻 I'm currently a grad student pursuing my **Masters of Science in Computer Science**
+- 💻 I'm currently a grad student pursuing **Masters of Science in Computer Science**
 - 🏢 Previously, I worked with **Media.net** as a **Front End Engineer**
 - ⚙️ Technologies I work on:
   - FrontEnd: HTML5, CSS3, Javascript.
