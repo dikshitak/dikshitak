@@ -8,6 +8,6 @@
   - FrontEnd: HTML5, CSS3, Javascript.
   - Libraries/Frameworks: ReactJS, SASS, PostCSS, Jquery, Bootstrap, Tailwind, MaterialUI.
 - 📫 Find me:
-	- Portfolio - https://dikshitak.com/
+	- Portfolio - https://dikshitak.info/
 	- Linkedin - https://www.linkedin.com/in/dikshita-kashodriya/
 - ⚡️ Fun fact: I'm a fan of KDrama
